@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Abrina	johnlouieabrina01@gmail.com	@skullcandylr
 
 # THANKS
 
